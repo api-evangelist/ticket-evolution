@@ -1,0 +1,86 @@
+{
+    "name": "Ticket Evolution",
+    "description": "Ticket Evolution is a software company looking to replace the out of date tools that brokers still use to manage and run their operation with the modern ones they deserve.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/954-ticket-evolution.jpg",
+    "tags": [
+        "have api",
+        "marketplaces",
+        "target",
+        "tickets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ticket-evolution\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ticket Evolution",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/954-ticket-evolution.jpg",
+            "humanURL": "http:\/\/ticketevolution.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ticket-evolution-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/ticketevolution.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/ticketevolution.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ticket-evolution"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ticket-evolution"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.ticketevolution.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@ticketevolution.com"
+        },
+        {
+            "type": "Email",
+            "url": "accounts@ticketevolution.com"
+        },
+        {
+            "type": "Email",
+            "url": "sellersupport@ticketevolution.com"
+        },
+        {
+            "type": "Email",
+            "url": "technicalsupport@ticketevolution.com"
+        },
+        {
+            "type": "Email",
+            "url": "catalog@ticketevolution.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ticketevolution"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ticketevolution"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ticketevolution.com"
+        }
+    ]
+}
